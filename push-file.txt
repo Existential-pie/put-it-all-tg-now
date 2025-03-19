@@ -1,1 +1,2 @@
 now we push from remote repo back to locally, should i merge now or later? now
+no im wrong we pull? from remote to local or should i push???
